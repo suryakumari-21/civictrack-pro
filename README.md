@@ -2,7 +2,7 @@
 
 > A full-stack local governance transparency platform built with React.js and Firebase.
 
- **Live Demo:** [https://suryakumari-21.github.io/civictrack-pro](https://suryakumari-21.github.io/civictrack-pro)
+**Live Demo:** [https://suryakumari-21.github.io/civictrack-pro/](https://suryakumari-21.github.io/civictrack-pro/)
 
 ---
 
