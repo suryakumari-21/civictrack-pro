@@ -1,12 +1,12 @@
-# 🏛️ CivicTrack Pro – Citizen Grievance Tracker
+# CivicTrack Pro – Citizen Grievance Tracker
 
 > A full-stack local governance transparency platform built with React.js and Firebase.
 
-🔗 **Live Demo:** [https://YOUR-USERNAME.github.io/civictrack-pro](https://YOUR-USERNAME.github.io/civictrack-pro)
+ **Live Demo:** [https://suryakumari-21.github.io/civictrack-pro](https://suryakumari-21.github.io/civictrack-pro)
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -18,7 +18,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 civictrack-pro/
@@ -67,7 +67,7 @@ civictrack-pro/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/civictrack-pro.git
+git clone https://github.com/suryakumari-21/civictrack-pro.git
 cd civictrack-pro
 npm install
 ```
