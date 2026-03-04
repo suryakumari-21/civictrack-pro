@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c22bbd2.css",
-    "main.js": "/static/js/main.8cc1b617.js",
-    "index.html": "/index.html",
-    "main.6c22bbd2.css.map": "/static/css/main.6c22bbd2.css.map",
-    "main.8cc1b617.js.map": "/static/js/main.8cc1b617.js.map"
+    "main.css": "/civictrack-pro/static/css/main.6c22bbd2.css",
+    "main.js": "/civictrack-pro/static/js/main.f2d46668.js",
+    "index.html": "/civictrack-pro/index.html",
+    "main.6c22bbd2.css.map": "/civictrack-pro/static/css/main.6c22bbd2.css.map",
+    "main.f2d46668.js.map": "/civictrack-pro/static/js/main.f2d46668.js.map"
   },
   "entrypoints": [
     "static/css/main.6c22bbd2.css",
-    "static/js/main.8cc1b617.js"
+    "static/js/main.f2d46668.js"
   ]
 }
