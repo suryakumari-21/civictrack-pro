@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/civictrack-pro/static/css/main.6c22bbd2.css",
-    "main.js": "/civictrack-pro/static/js/main.a557bc7a.js",
+    "main.js": "/civictrack-pro/static/js/main.5c09e9b6.js",
     "index.html": "/civictrack-pro/index.html",
     "main.6c22bbd2.css.map": "/civictrack-pro/static/css/main.6c22bbd2.css.map",
-    "main.a557bc7a.js.map": "/civictrack-pro/static/js/main.a557bc7a.js.map"
+    "main.5c09e9b6.js.map": "/civictrack-pro/static/js/main.5c09e9b6.js.map"
   },
   "entrypoints": [
     "static/css/main.6c22bbd2.css",
-    "static/js/main.a557bc7a.js"
+    "static/js/main.5c09e9b6.js"
   ]
 }
