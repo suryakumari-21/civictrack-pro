@@ -2,9 +2,9 @@ import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
 import { AuthProvider, useAuth } from './context/AuthContext';
-import AuthPage     from './pages/AuthPage';
-import CitizenDash  from './pages/CitizenDash';
-import AdminDash    from './pages/AdminDash';
+import AuthPage    from './pages/AuthPage';
+import CitizenDash from './pages/CitizenDash';
+import AdminDash   from './pages/AdminDash';
 
 function ProtectedRoute({ children, role }) {
   const { currentUser, userRole } = useAuth();
